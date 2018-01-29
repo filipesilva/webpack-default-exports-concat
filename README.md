@@ -1,0 +1,1 @@
+Issue repro for https://github.com/webpack/webpack/issues/6407
